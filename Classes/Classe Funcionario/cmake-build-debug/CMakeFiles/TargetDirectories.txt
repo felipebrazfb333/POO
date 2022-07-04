@@ -1,0 +1,3 @@
+/home/keep/Documentos/POO-minhas classes/Classe Funcionario/cmake-build-debug/CMakeFiles/Classe_Funcionario.dir
+/home/keep/Documentos/POO-minhas classes/Classe Funcionario/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/keep/Documentos/POO-minhas classes/Classe Funcionario/cmake-build-debug/CMakeFiles/rebuild_cache.dir

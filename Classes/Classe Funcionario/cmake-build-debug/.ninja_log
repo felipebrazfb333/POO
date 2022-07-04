@@ -1,0 +1,6 @@
+# ninja log v5
+0	514	1656947495293932478	CMakeFiles/Classe_Funcionario.dir/Pessoa.cpp.o	84385c8157308683
+0	771	1656947495549933540	CMakeFiles/Classe_Funcionario.dir/main.cpp.o	f355703a609d9656
+0	848	1656947495629933871	CMakeFiles/Classe_Funcionario.dir/Funcionario.cpp.o	2a174a7741c25452
+515	999	1656947495777934484	CMakeFiles/Classe_Funcionario.dir/PessoaFisica.cpp.o	b3ea9a0fcd808d80
+999	1106	1656947495885934931	Classe_Funcionario	8328f5b961f6c6c2
