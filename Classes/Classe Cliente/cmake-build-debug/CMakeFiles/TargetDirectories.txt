@@ -1,0 +1,3 @@
+/home/keep/Documentos/POO-minhas classes/Classe Cliente1/cmake-build-debug/CMakeFiles/Classe_Cliente1.dir
+/home/keep/Documentos/POO-minhas classes/Classe Cliente1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/keep/Documentos/POO-minhas classes/Classe Cliente1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

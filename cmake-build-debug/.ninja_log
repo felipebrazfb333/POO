@@ -1,0 +1,6 @@
+# ninja log v5
+0	1372	1656931603893842846	CMakeFiles/POO.dir/Classe_Pessoa_e_derivadas/Pessoa.cpp.o	2673dd57bad88570
+1373	1878	1656931604397858864	CMakeFiles/POO.dir/Classe_Pessoa_e_derivadas/PessoaJuridica.cpp.o	a5d1999fb361f3fb
+1	1381	1656931603893842846	CMakeFiles/POO.dir/Classe_Pessoa_e_derivadas/PessoaFisica.cpp.o	8f5a938a2e65edb4
+1878	2060	1656931604577864584	POO	afae42722646eb56
+0	1383	1656931603905843227	CMakeFiles/POO.dir/Classe_Pessoa_e_derivadas/main.cpp.o	3bf0051b7fb85cdd

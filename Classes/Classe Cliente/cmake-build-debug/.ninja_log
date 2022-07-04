@@ -1,0 +1,12 @@
+# ninja log v5
+1	609	1656946229361768419	CMakeFiles/Classe_Cliente1.dir/Pessoa.cpp.o	d4c687066a70cbc2
+0	617	1656946229369768436	CMakeFiles/Classe_Cliente1.dir/main.cpp.o	6663d6365755f6f
+0	641	1656946229393768489	CMakeFiles/Classe_Cliente1.dir/Cliente.cpp.o	e078751b7fe81920
+613	1052	1656946229797769373	CMakeFiles/Classe_Cliente1.dir/PessoaFisica.cpp.o	7351209cf8f54e82
+1052	1168	1656946229921769645	Classe_Cliente1	d3181fe4948bce4b
+0	585	1656946335822005648	CMakeFiles/Classe_Cliente1.dir/main.cpp.o	6663d6365755f6f
+585	687	1656946335926005884	Classe_Cliente1	d3181fe4948bce4b
+1	746	1656946392698135406	CMakeFiles/Classe_Cliente1.dir/PessoaFisica.cpp.o	7351209cf8f54e82
+1	747	1656946392702135416	CMakeFiles/Classe_Cliente1.dir/main.cpp.o	6663d6365755f6f
+0	747	1656946392702135416	CMakeFiles/Classe_Cliente1.dir/Cliente.cpp.o	e078751b7fe81920
+748	850	1656946392802135646	Classe_Cliente1	d3181fe4948bce4b
