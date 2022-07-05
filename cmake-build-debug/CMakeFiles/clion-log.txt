@@ -1,4 +1,0 @@
-/home/keep/Downloads/clion-2022.1.3/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/keep/Downloads/clion-2022.1.3/bin/ninja/linux/ninja -G Ninja -S /home/keep/Documentos/Github-POO/Programacao/POO -B /home/keep/Documentos/Github-POO/Programacao/POO/cmake-build-debug
--- Configuring done
--- Generating done
--- Build files have been written to: /home/keep/Documentos/Github-POO/Programacao/POO/cmake-build-debug

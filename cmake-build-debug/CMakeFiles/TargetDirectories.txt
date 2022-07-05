@@ -1,3 +1,0 @@
-/home/keep/Documentos/Github-POO/Programacao/POO/cmake-build-debug/CMakeFiles/POO.dir
-/home/keep/Documentos/Github-POO/Programacao/POO/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/keep/Documentos/Github-POO/Programacao/POO/cmake-build-debug/CMakeFiles/rebuild_cache.dir
