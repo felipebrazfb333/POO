@@ -1,0 +1,8 @@
+# ninja log v5
+5	1524	1657030403827611973	CMakeFiles/classe_Imovel.dir/ImovelVelho.cpp.o	2859f90218f0e7bd
+0	1527	1657030403827611973	CMakeFiles/classe_Imovel.dir/Imovel.cpp.o	93f1469c48ea02d0
+1	1527	1657030403827611973	CMakeFiles/classe_Imovel.dir/ImovelNovo.cpp.o	256d3fd7034ac834
+1525	1953	1657030404255610873	CMakeFiles/classe_Imovel.dir/main.cpp.o	79c8fef33cbae912
+1953	2203	1657030404503610235	classe_Imovel	840804296a4799ce
+7	596	1657030575947075698	CMakeFiles/classe_Imovel.dir/main.cpp.o	79c8fef33cbae912
+596	702	1657030576171074890	classe_Imovel	840804296a4799ce

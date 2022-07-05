@@ -1,0 +1,3 @@
+/home/keep/Documentos/POO-minhas classes/classe Imovel/cmake-build-debug/CMakeFiles/classe_Imovel.dir
+/home/keep/Documentos/POO-minhas classes/classe Imovel/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/keep/Documentos/POO-minhas classes/classe Imovel/cmake-build-debug/CMakeFiles/rebuild_cache.dir
